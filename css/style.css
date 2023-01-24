@@ -178,26 +178,57 @@ nav ul li a:hover{
 .instructions {
     margin-top: 10px;
 }
-
+.testimonies{
+    border: 2px border solid green;
+    align-items: center;
+}
+.testimonies h2{
+    font-size:25px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    padding-top: 3%;
+    padding-bottom: 1%;
+}
+.testimonies p{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(237, 173, 173);
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    padding-bottom: 2%;
+    font-size:25px;
+}
 .testimony{
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
     align-items: center;
-    width: 80%;
+    width: 100%;
     gap: 20px;
+    /*border: 2px solid green;*/
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 .testimony-one {
     background-color: white;
     color: rgba(0, 0, 0, 0.822);
     padding: 10px;
-    max-width: 252px;
+    max-width: 300px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
     gap: 20px;
     flex-flow: column;
+    justify-content:center;
     align-items: center;
     text-align: center;
     border: 1px solid rgb(226, 212, 212);
@@ -205,13 +236,11 @@ nav ul li a:hover{
 }
 
 .testimony-image img{
-    height: 125px;
-    width: 125px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
 }
-.testimony-image{
-    display: flex;
-    margin-top: 20px;
-}
+
 .testimony-stars{
     margin-bottom: 20px;
 }

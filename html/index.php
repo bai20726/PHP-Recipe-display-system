@@ -144,7 +144,7 @@ $salisburySteak = new Recipe("Chicken-and-Spinach Tortellini Soup",
     <h2 class = "logo">Infused<span>Recipes</span></h2>
     <ul>
         <li><a href="#">Home</a></li>
-        <li><a href="#">Recipes</a></li>
+        <li><a href="recipes.php">Recipes</a></li>
         <li><a href="#">Blog</a></li>
         <li><a href="#">Contact Us</a></li>
     </ul>
@@ -156,7 +156,7 @@ $salisburySteak = new Recipe("Chicken-and-Spinach Tortellini Soup",
 <h4>These 30-minute dinners are just the thing when time is of the essence!</h4>
 <div class ="newsletter">
     <form>
-        <input type ="email" name="email" id="mail" placeholder="Search Your Favorite Meal">
+        <input type ="email" name="email" id="mail" placeholder="Enter Your E-Mail Address">
         <input type ="submit" name="submit" placeholder="Subscribe">
     </form>
 </div>
@@ -295,6 +295,120 @@ $salisburySteak = new Recipe("Chicken-and-Spinach Tortellini Soup",
 
 </div>
 
+<div class="testimonies">
+    <h2>Reviews</h2>
+    <p> Read detailed, verified, client reviews about Web Recipes. </p>
+</div>
+<div class="testimony">
+            <div class="testimony-one">
+                <div class="testimony-image">
+                    <img src="../images/user1.jpg" alt="">
+                </div>
+                <div>
+                    <p>I used this site for my entire menu this week, and am extremely impressed.
+                        Each recipe was a big winner, and they did NOT taste like typical thrown-together simple recipes.
+                        A real standout for me was the chicken and dumplings recipe. It made use of supermarket rotisserie chicken, chicken broth, and a few fresh veggies and all-purpose flour.
+                        It was amazingly flavorful, with perfect soft-springy drop dumplings, and the most complicated thing you had to do was chop the onion. </p>
+                </div>
+                <div class="testimony-stars">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star-outline.svg" alt="">
+                </div>
+                
+
+            </div>
+            <div class="testimony-one">
+                <div class="testimony-image">
+                    <img src="../images/user2.jpg" alt="">
+                </div>
+                <div>
+                    <p>I used this website for my entire menu this week, and am extremely impressed.
+                        Each recipe was a big winner, and they did NOT taste like typical thrown-together simple recipes.
+                        A real standout for me was the chicken and dumplings recipe. It made use of supermarket rotisserie chicken, chicken broth, and a few fresh veggies and all-purpose flour.
+                        It was amazingly flavorful, with perfect soft-springy drop dumplings, and the most complicated thing you had to do was chop the onion. </p></div>
+                <div class="testimony-stars">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star-outline.svg" alt="">
+                </div>
+
+             </div>
+            <div class="testimony-one">
+                <div class="testimony-image">
+                    <img src="../images/user3.jpg" alt="">
+                </div>
+                <div>
+                    <p>I used this website for my entire menu this week, and am extremely impressed.
+                        Each recipe was a big winner, and they did NOT taste like typical thrown-together simple recipes.
+                        A real standout for me was the chicken and dumplings recipe. It made use of supermarket rotisserie chicken, chicken broth, and a few fresh veggies and all-purpose flour.
+                        It was amazingly flavorful, with perfect soft-springy drop dumplings, and the most complicated thing you had to do was chop the onion. </p></div>
+                <div class="testimony-stars">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star-outline.svg" alt="">
+                </div>
+            </div>
+            <div class="testimony-one">
+                <div class="testimony-image">
+                    <img src="../images/user4.jpg" alt="">
+                </div>
+                <div>
+                    <p>I used this website for my entire menu this week, and am extremely impressed.
+                        Each recipe was a big winner, and they did NOT taste like typical thrown-together simple recipes.
+                        A real standout for me was the chicken and dumplings recipe. It made use of supermarket rotisserie chicken, chicken broth, and a few fresh veggies and all-purpose flour.
+                        It was amazingly flavorful, with perfect soft-springy drop dumplings, and the most complicated thing you had to do was chop the onion. </p></div>
+                <div class="testimony-stars">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star-outline.svg" alt="">
+                </div>
+            </div>
+
+            <div class="testimony-one">
+                <div class="testimony-image">
+                    <img src="../images/user6.jpg" alt="">
+                </div>
+                <div>
+                    <p>I used this website for my entire menu this week, and am extremely impressed.
+                        Each recipe was a big winner, and they did NOT taste like typical thrown-together simple recipes.
+                        A real standout for me was the chicken and dumplings recipe. It made use of supermarket rotisserie chicken, chicken broth, and a few fresh veggies and all-purpose flour.
+                        It was amazingly flavorful, with perfect soft-springy drop dumplings, and the most complicated thing you had to do was chop the onion. </p></div>
+                <div class="testimony-stars">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star-outline.svg" alt="">
+                </div>
+            </div>
+
+            <div class="testimony-one">
+                <div class="testimony-image">
+                    <img src="../images/user5.jpg" alt="">
+                </div>
+                <div>
+                    <p>I used this website for my entire menu this week, and am extremely impressed.
+                        Each recipe was a big winner, and they did NOT taste like typical thrown-together simple recipes.
+                        A real standout for me was the chicken and dumplings recipe. It made use of supermarket rotisserie chicken, chicken broth, and a few fresh veggies and all-purpose flour.
+                        It was amazingly flavorful, with perfect soft-springy drop dumplings, and the most complicated thing you had to do was chop the onion. </p></div>
+                <div class="testimony-stars">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star.svg" alt="">
+                    <img class="logo-img" src="../images/icon-star-outline.svg" alt="">
+                </div>
+            </div>
+</div>
 
             
 </body>
